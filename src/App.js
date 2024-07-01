@@ -13,14 +13,14 @@ function App() {
 
   return (
     <div>
-      <div className="main">
+      <div className="main main-section">
         <Box title="You"/>
         <Box title="Computer"/>
       </div>
       
       
 
-      <div className="main">
+      <div className="main button-section">
         <button>가위</button>
         <button>바위</button>
         <button>보</button>
