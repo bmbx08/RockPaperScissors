@@ -25,3 +25,15 @@
 .button-section>button{
   margin: 0 10px;
 }
+
+.Win {
+  color:rgb(16, 161, 16);
+}
+
+.Lose {
+  color: red;
+}
+
+.Tie{
+  color: black;
+}
