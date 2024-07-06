@@ -11,7 +11,8 @@ const Box = (props) => {
   }else {
     result = props.result;
   }
-
+  
+  console.log(props.result);
   return (
     <div className="box">
       <h1>{props.title}</h1>
